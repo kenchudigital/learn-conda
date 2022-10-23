@@ -18,6 +18,10 @@ https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html
 > 
 create environment according conda.yaml file, which name (my_env) override the file name setting.
 
+Example of conda.yml: 
+
+> /conda.yml
+
 Env File Path:
 > <a>{path}</a>/miniconda3/envs
 
